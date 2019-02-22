@@ -1,5 +1,5 @@
 {
-  "name": "hexo-cli-extras",
+  "name": "@string-bean/hexo-cli-extras",
   "description": "Hexo plugin that adds an edit, rename, remove, isolate and integrate command for easier command line administration of your Hexo-powered website.",
   "keywords": [
     "hexo",
@@ -7,7 +7,7 @@
     "cli",
     "command line"
   ],
-  "version": "1.0.4",
+  "version": "1.1.0",
   "main": "index",
   "author": "Gregory Scheerlinck <gregory.scheerlinck@gmail.com> (http://gregjs.com)",
   "repository": {
