@@ -4,7 +4,8 @@
         "comma-dangle": 0,
         "no-console": 0,
         "no-var": "error",
-        "prefer-const": "warn"
+        "prefer-const": "warn",
+        "prefer-arrow-callback": "error"
     },
     "env": {
         "node": true,
